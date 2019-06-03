@@ -1,0 +1,71 @@
+.form-inline{
+	display: inline-block;
+}
+.form-flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.activo,.pagado{
+	background:#1ABB9C; 
+}
+.eliminado,.cancelado{
+	background: #d9534f;
+}
+.margn{
+	margin:10px;
+}
+.m-lft{
+	margin-left: 10px;
+}
+.m-tp{
+	margin-top: 10px;
+}
+.padding{
+	padding: 10px;
+}
+
+.money{
+	font-size: 2.3em !important;
+}
+.earnings{
+	color:#1ABB9C!important;
+}
+.total{
+	color: #ac2925 !important;
+}
+.font-bold{
+	font-weight: bold;
+}
+.font-size-bg{
+	font-size: 18px;
+}
+.font-size-md{
+	font-size: 16px;
+}
+.innerit{
+	text-decoration: underline;
+}
+.mg-btm-md{
+	margin-bottom: 16px;
+}
+.d-flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.click{
+	cursor: pointer;
+}
+.col-red{
+	color: #ac2925 !important;
+}
+.pagado{
+	background:#169F85;
+}
+.cancelado{
+	background: red;
+}
+#datatable-buttons_wrapper{
+	width: 100% !important;
+}
